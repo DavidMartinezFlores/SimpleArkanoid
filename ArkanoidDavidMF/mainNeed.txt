@@ -1,0 +1,8 @@
+import asyncio
+
+async def main():
+
+
+await asyncio.sleep(0)  # dentro de nuestro bucle del juego (while)
+
+asyncio.run(main())
